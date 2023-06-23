@@ -7,5 +7,5 @@ print ("The total number of students: 		%d" % (sum))
 print ("The number of males and females: 	%s 	   %s" % (num_males, num_females))
 print (f'The percentage of males and females \t {m_perc:.2f} \t {f_perc:.2f}')
 
-return m_perc, f_perc
+
 
